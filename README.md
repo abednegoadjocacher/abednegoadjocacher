@@ -20,7 +20,10 @@
 - 🚀 Working on:  
   - Personal **Portfolio Website**  
   - **Blog Site** to document my journey  
-  - Other side projects (see below ⬇️)  
+  - ### Other side projects: ⬇️
+    - **E-commence car website**
+    - **Building personal brand**
+    - **Children site** 
 - 📫 Reach me via: **abednegoadjocacher@gmail.com**  
 
 ---
@@ -105,7 +108,7 @@
 
 ---
 
-⭐️ From Abednego Adjocacher
+⭐️Abednego Adjocacher
 
 
 
