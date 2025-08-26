@@ -63,7 +63,8 @@
           <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
         </a>  
         <a href="https://https://sites.google.com/view/aabednego?usp=sharing" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+        [abed](https://sites.google.com/view/aabednego?usp=sharing)
+          <!-- <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/> -->
         </a>
       </p>
     </td>
