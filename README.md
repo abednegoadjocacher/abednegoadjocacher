@@ -53,6 +53,7 @@
 ---
 
 ## 📂 Featured Projects (In progress👨‍💻👨‍💻)
+[abed](https://sites.google.com/view/aabednego?usp=sharing)
 <table>
   <tr>
     <td width="50%">
@@ -65,7 +66,6 @@
         <a href="[abed](https://sites.google.com/view/aabednego?usp=sharing)" target="_blank">
            <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
         </a> -->
-        [abed](https://sites.google.com/view/aabednego?usp=sharing)
       </p>
     </td>
     <td width="50%">
