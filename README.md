@@ -21,7 +21,7 @@
   - Personal **Portfolio Website**  
   - **Blog Site** to document my journey  
   - Other side projects (see below ⬇️)  
-- 📫 How to reach me: **abednegoadjocacher@gmail.com**  
+- 📫 Reach me via: **abednegoadjocacher@gmail.com**  
 
 ---
 
