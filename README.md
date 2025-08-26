@@ -14,6 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
+- 👨 I am studying BSc. Computer Science at Ghana Communication Technology University(GCTU)
 - 🌱 I’m currently learning **Front-End Development (ALX ProDev Program)**  
 - 🎯 Goal: Become a **Full-Stack Developer**  
 - 💡 I’m passionate about **building scalable web applications** and **sharing knowledge**  
