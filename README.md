@@ -59,24 +59,24 @@
       <h3 align="center">🌐 Portfolio Website</h3>
       <p>A personal website showcasing my skills, projects, and resume.</p>
       <p align="center">
-        <a href="https://github.com/abednegoadjocacher/portfolio" target="_blank">
+        <!-- <a href="https://github.com/abednegoadjocacher/portfolio" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
         </a>  
         <a href="[abed](https://sites.google.com/view/aabednego?usp=sharing)" target="_blank">
-          <!-- <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/> -->
-        </a>
+           <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+        </a> -->
       </p>
     </td>
     <td width="50%">
       <h3 align="center">✍️ Blog Site</h3>
       <p>A blog platform to share insights, tutorials, and my coding journey.</p>
       <p align="center">
-        <a href="https://github.com/abednegoadjocacher/blog-site" target="_blank">
+        <!-- <a href="https://github.com/abednegoadjocacher/blog-site" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
         </a>  
         <a href="https://your-blog-link" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
-        </a>
+        </a> -->
       </p>
     </td>
   </tr>
