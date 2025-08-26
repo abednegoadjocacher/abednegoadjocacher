@@ -83,7 +83,7 @@
 </table>
 
 ---
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abednegoadjocacher&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
