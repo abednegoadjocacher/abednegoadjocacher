@@ -62,8 +62,7 @@
         <a href="https://github.com/abednegoadjocacher/portfolio" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://https://sites.google.com/view/aabednego?usp=sharing" target="_blank">
-        [abed](https://sites.google.com/view/aabednego?usp=sharing)
+        <a href="[abed](https://sites.google.com/view/aabednego?usp=sharing)" target="_blank">
           <!-- <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/> -->
         </a>
       </p>
