@@ -53,7 +53,6 @@
 ---
 
 ## 📂 Featured Projects (In progress👨‍💻👨‍💻)
-[abed](https://sites.google.com/view/aabednego?usp=sharing)
 <table>
   <tr>
     <td width="50%">
